@@ -41,11 +41,11 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
             <title class="showTextOnHighlight">Radiomyme</title>
         </lockup>
         <lockup Id="IbizaGlobal">
-          <img src="${this.BASEURL}/resources/images/radio/ibizaglobalradio.jpg" width="308" height="308" />
+          <img src="https://abload.de/img/12040191-960464833704dfkn3.jpg" width="308" height="308" />
           <title class="showTextOnHighlight">Ibiza Global Radio</title>
         </lockup>
          <lockup Id="SunshineLive">
-          <img src="${this.BASEURL}/resources/images/radio/sunshinelive.jpg" width="308" height="308" />
+          <img src="https://abload.de/img/12040191-960464833704dfkn3.jpg" width="308" height="308" />
           <title class="showTextOnHighlight">Sunshine Live</title>
         </lockup>
         <lockup Id="Top40">
