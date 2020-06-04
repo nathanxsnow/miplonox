@@ -41,7 +41,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
           <title class="showTextOnHighlight">Ibiza Global Radio</title>
         </lockup>
          <lockup Id="SunshineLive">
-          <img src="http://data.radiomyme.com/tv/resources/images/radio/sunshinelive.jpg" width="308" height="308" />
+          <img src="https://abload.de/img/b00e0d1xzy.03.lzzzzzznqkok.jpg" width="308" height="308" />
           <title class="showTextOnHighlight">Sunshine Live</title>
         </lockup>
         <lockup Id="Top40">
