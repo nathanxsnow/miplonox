@@ -389,8 +389,8 @@ function setPlaybackEventListeners(currentPlayer) {
 var LiveFlux = {
     Radiomyme: [{
         title: "Radiomyme",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/Radiomyme.jpg",
-        url: "http://listen.radionomy.com/radiomyme-tv"
+        artworkImageURL: "https://abload.de/img/ong-bak-34kkzm.jpg",
+        url: "https://srv444.filmmodu.xyz/tt3399078/720p.tr.m3u8"
     }],
 
     ClubOne: [{
