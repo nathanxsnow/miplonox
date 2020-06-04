@@ -22,7 +22,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
   </head>
   <productBundleTemplate theme="light">
     <background>
-      <img src="http://data.radiomyme.com/TVOS/tv/resources/images/background/bg_product_uber.jpg" />
+      <img src="${this.BASEURL}/resources/images/background/bg_product_uber.jpg" />
     </background>
     <banner>
       <stack>
