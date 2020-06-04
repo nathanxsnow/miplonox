@@ -389,650 +389,650 @@ function setPlaybackEventListeners(currentPlayer) {
 var LiveFlux = {
     Radiomyme: [{
         title: "Radiomyme",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/Radiomyme.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/Radiomyme.jpg",
         url: "http://listen.radionomy.com/radiomyme-tv"
     }],
 
     ClubOne: [{
         title: "Club One",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/Club1.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/Club1.jpg",
         url: "http://listen.radionomy.com/clubone"
     }],
     
     OldOne: [{
         title: "OldOne",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/OldOne.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/OldOne.jpg",
         url: "http://listen.radionomy.com/oldone"
     }],
     
     Parazhit: [{
         title: "Parazhit",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/parazhit.png",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/parazhit.png",
         url: "http://bit.ly/1OBiXFE"
     }],
     
     NRJ: [{
         title: "NRJ",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/NRJ.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/NRJ.jpg",
         url: "http://185.52.127.160/fr/30001/mp3_128.mp3?origine=fluxradios"
     }],
     
     DanceWave: [{
         title: "Dance Wave",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/DanceWave.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/DanceWave.jpg",
         url: "http://dancewave.online/dance.mp3.pls"
     }],
     
     Hotmix: [{
         title: "HotMix Radio Dance",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/hotmix.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/hotmix.jpg",
         url: "http://listen.radionomy.com/hotmixradio-dance-128.m3u"
     }],
     
     MixFeever: [{
         title: "MixFeever",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/mixfeever.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/mixfeever.jpg",
         url: "http://listen.radionomy.com/feevermix.m3u"
     }],
     
     Funradio: [{
         title: "Funradio",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/Funradio.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/Funradio.jpg",
         url: "http://streaming.radio.funradio.fr/fun-1-48-192"
     }],
     
     RTL: [{
         title: "RTL",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/RTL.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/RTL.jpg",
         url: "http://streaming.radio.rtl.fr/rtl-1-44-96"
     }],
     
     RTL2: [{
         title: "RTL 2",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/rtl/RTL2.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/rtl/RTL2.jpg",
         url: "http://streaming.radio.rtl2.fr:80/rtl2-1-44-96"
     }],
     
     Europe1: [{
         title: "Europe 1",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/europe1.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/europe1.jpg",
         url: "http://mp3lg3.scdn.arkena.com/10489/europe1.mp3"
     }],
     
     Contact: [{
         title: "Contact FM",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/contact.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/contact.jpg",
         url: "http://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3"
     }],
     
     Nostalgie: [{
         title: "Nostalgie",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/nostalgie.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/nostalgie.jpg",
         url: "http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios"
     }],
     
     Skyrock: [{
         title: "Skyrock",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/skyrock.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/skyrock.jpg",
         url: "http://icecast.skyrock.net/s/natio_mp3_128k"
     }],
     
     RFM: [{
         title: "RFM",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/rfm.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/rfm.jpg",
         url: "http://rfm-live-mp3-128.scdn.arkena.com/rfm.mp3"
     }],
     
    	VirginRadio: [{
         title: "Virgin Radio",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/virginradio.png",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/virginradio.png",
         url: "http://vr-live-mp3-128.scdn.arkena.com/virginradio.mp3"
     }],
     
     RMC: [{
         title: "RMC",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/rmc.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/rmc.jpg",
         url: "http://chai5she.cdn.dvmr.fr/rmcinfo"
     }],
     
     CherieFM: [{
         title: "Cherie FM",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/cheriefm.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/cheriefm.jpg",
         url: "http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios"
     }],
     
     RireChanson: [{
         title: "Rire et Chanson",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/rireetchanson.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/rireetchanson.jpg",
         url: "http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios"
     }],
     
     FranceINFO: [{
         title: "France Info",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/franceinfo.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/franceinfo.jpg",
         url: "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3"
     }],
     
     FranceINTER: [{
         title: "France Inter",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/franceinter.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/franceinter.jpg",
         url: "http://direct.franceinter.fr/live/franceinter-midfi.mp3"
     }],
     
     IbizaGlobal: [{
         title: "Ibiza Global Radio",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/ibizaglobalradio.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/ibizaglobalradio.jpg",
         url: "http://ibizaglobalradio.streaming-pro.com:8024/"
     }],
     
     SunshineLive: [{
         title: "Sunshine Live",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/sunshinelive.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/sunshinelive.jpg",
         url: "http://stream.sunshine-live.de/live/mp3-192/Webradio-Player/"
     }],
     
    	Top40: [{
         title: "1 FM Top 40",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/1FMtop40.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/1FMtop40.jpg",
         url: "http://strm112.1.fm/top40_mobile_mp3"
     }],
     
     ChartHitsFM: [{
         title: "Chart Hits FM",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/ChartHitsFM.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/ChartHitsFM.jpg",
         url: "http://charthits-high.rautemusik.fm/listen.pls"
     }],
     
     IbizaSonica: [{
         title: "Ibiza Sonica",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/ibizasonica.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/ibizasonica.jpg",
         url: "http://bit.ly/1TYRJHZ"
     }],
     
     Trance1FM: [{
         title: "1 FM Trance",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/1FMTrance.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/1FMTrance.jpg",
         url: "http://strm112.1.fm/trance_mobile_mp3"
     }],
     
     Radio7: [{
         title: "Radio Seven",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/radio7.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/radio7.jpg",
         url: "http://play.radioseven.se/128.pls"
     }],
     
     Frisky: [{
         title: "Frisky",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/frisky.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/frisky.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=47007"
     }],
     
     RadioDance1: [{
         title: "1 Dance Radio",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/radiodance.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/radiodance.jpg",
         url: "http://listen.radionomy.com/1-radio-dance"
     }],
     
    	BassDrive: [{
         title: "BassDrive",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/bassdrive.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/bassdrive.jpg",
         url: "http://bassdrive.com/bassdrive3.m3u"
     }],
     
     BigCityBeats: [{
         title: "Big City Beats",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/bigcitybeats.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/bigcitybeats.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=61568"
     }],
     
     BlueMarlinIbiza: [{
         title: "Blue Marlin Ibiza",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/BlueMarlinIbiza.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/BlueMarlinIbiza.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=302916"
     }],
     
     Quisqueya: [{
         title: "Quisqueya",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/Quisqueya.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/Quisqueya.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=923464"
     }],
     
     RadioPiekary: [{
         title: "Radio Piekary",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioPiekary.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/RadioPiekary.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=979102"
     }],
     
     RadioBeatsfm: [{
         title: "Radio Beats FM",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/beatsfm.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/beatsfm.jpg",
         url: "http://ibizaglobalradio.streaming-pro.com:8024/"
     }],
     
     RancheritadelAire: [{
         title: "La Rancherita del Aire",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/RancheritadelAire.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/RancheritadelAire.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=769470"
     }],
     
    	RadioUnoPlus: [{
         title: "Radio Uno Plus",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioUnoPlus.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/RadioUnoPlus.jpg",
         url: "http://listen.radionomy.com/radiounoplus"
     }],
     
     ColombiaCrossOver: [{
         title: "Colombia CrossOver",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/ColombiaCrossOver.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/ColombiaCrossOver.jpg",
         url: "http://listen.radionomy.com/colombiacrossover"
     }],
     
     COLOMBIASALSAROSA: [{
         title: "Colombia Salsa Rosa",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/COLOMBIASALSAROSA.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/COLOMBIASALSAROSA.jpg",
         url: "http://listen.radionomy.com/colombiasalsarosa"
     }],
     
     CUMBIASINMORTALES: [{
         title: "Cumbias Inmortales",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/CUMBIASINMORTALES.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/CUMBIASINMORTALES.jpg",
         url: "http://listen.radionomy.com/cumbias-inmortales"
     }],
     
     TropicalisimaBaladas: [{
         title: "Tropicalisima Baladas",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/TropicalisimaBaladas.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/TropicalisimaBaladas.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=402247"
     }],
     
     RadioKaribeaChala: [{
         title: "Radio Karibea Chala",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioKaribeaChala.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/RadioKaribeaChala.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=394674"
     }],
     
    	RitmoFM: [{
         title: "Ritmo 96 5 FM",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/RitmoFM.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/RitmoFM.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=299319"
     }],
     
     LaRazaFM: [{
         title: "La Raza 106 1 FM",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/LaRazaFM.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/LaRazaFM.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=116014"
     }],
     
     SuperKFM: [{
         title: "Super K 100 7 FM",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/SuperKFM.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/SuperKFM.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=126643"
     }],
     
     LaXEstereo: [{
         title: "La X Estereo",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/LaXEstereo.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/LaXEstereo.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=369433"
     }],
 
     ANTENA1: [{
         title: "Antena 1",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/ANTENA1.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/ANTENA1.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=830692"
     }],
     
     RUSSIANHIT: [{
         title: "Russian Hit",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/RUSSIANHIT.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/RUSSIANHIT.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=160882"
     }],
     
     RADIOSCOOPHUNGARY: [{
         title: "Radioscoop Hungary",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/RADIOSCOOPHUNGARY.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/RADIOSCOOPHUNGARY.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=719284"
     }],
     
    	KissFMRomania: [{
         title: "KissFM Romania",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/KissFMRomania.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/KissFMRomania.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=528480"
     }],
     
     HitradioOE3: [{
         title: "Hitradio OE3",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/HitradioOE3.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/HitradioOE3.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=195363"
     }],
     
     RadioZULive: [{
         title: "Radio ZU Live",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioZULive.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/RadioZULive.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=496791"
     }],
     
     Evangelizar: [{
         title: "Evangelizar",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/Evangelizar.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/Evangelizar.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=501985"
     }],
     
     LasMasBailadas: [{
         title: "Las Mas Bailadas",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/LasMasBailadas.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/LasMasBailadas.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=219515"
     }],
     
     KralFM: [{
         title: "Kral FM",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/KralFM.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/KralFM.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=201663"
     }],
     
    	Shanson: [{
         title: "Shanson 101 9 Kiev",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/Shansono.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/Shansono.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=53530"
     }],
     
     KralPop: [{
         title: "Kral Pop",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/KralPop.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/KralPop.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.pls?id=31023"
     }],
     
     WebRadioRiodoOestenaBalada: [{
         title: "Web Radio Rio do Oeste na Balada",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/PopRadio.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/PopRadio.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=126643"
     }],
     
     AntenneBayern: [{
         title: "Antenne Bayern",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/AntenneBayern.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/AntenneBayern.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=403432"
     }],
 
     MegaRadio: [{
         title: "Mega Radio",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/MegaRadio.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/MegaRadio.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.pls?id=653998"
     }],
     
     RadioRomaniaInternational: [{
         title: "Radio Romania International",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioRomaniaInternational.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/RadioRomaniaInternational.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.pls?id=99194139"
     }],
     
    	DJFMUkraine: [{
         title: "DJFM Ukraine",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/DJFMUkraine.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/DJFMUkraine.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.pls?id=1629506"
     }],
     
     Narodniradio: [{
         title: "Narodni radio",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/Narodniradio.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/Narodniradio.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.pls?id=1397078"
     }],
     
     ShowRadyo: [{
         title: "Show Radyo",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/ShowRadyo.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/ShowRadyo.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.pls?id=524473"
     }],
     
     ClubeFM: [{
         title: "Clube FM",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/ClubeFM.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/ClubeFM.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.pls?id=869363"
     }],
     
     RadioMozart: [{
         title: "Radio Mozart",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioMozart.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/RadioMozart.jpg",
         url: "http://listen.radionomy.com/radio-mozart"
     }],
     
     SmoothRiviera: [{
         title: "Smooth Riviera",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/SmoothRiviera.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/SmoothRiviera.jpg",
         url: "http://listen.radionomy.com/smooth-riviera"
     }],
     
     ABCPiano: [{
         title: "ABC Piano",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/ABCPiano.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/ABCPiano.jpg",
         url: "http://listen.radionomy.com/abc-piano"
     }],
     
     ClassicalHits: [{
         title: "1000 Classical Hits",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/ClassicalHits.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/ClassicalHits.jpg",
         url: "http://listen.radionomy.com/1000classicalhits"
     }],
     
     ChristmasCarolsRadio: [{
         title: "Christmas Carols Radio",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/ChristmasCarolsRadio.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/ChristmasCarolsRadio.jpg",
         url: "http://listen.radionomy.com/christmascarolsradio"
     }],
     
     CINEMIX: [{
         title: "CINEMIX",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/CINEMIX.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/CINEMIX.jpg",
         url: "http://listen.shoutcast.com/CINEMIX-1"
     }],
     
     BarockMusic: [{
         title: "Barock Music",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/BarockMusic.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/BarockMusic.jpg",
         url: "http://listen.radionomy.com/barock-music"
     }],
     
     AbacusFMMozartPiano: [{
         title: "Abacus FM Mozart Piano",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/AbacusFMMozartPiano.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/AbacusFMMozartPiano.jpg",
         url: "http://listen.radionomy.com/abacusfm-mozart-piano"
     }],
     
     AbacusFMBach: [{
         title: "Abacus FM Bach",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/AbacusFMBach.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/AbacusFMBach.jpg",
         url: "http://listen.radionomy.com/abacusfm-bach"
     }],
     
     Mozartiana: [{
         title: "Mozartiana",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/Mozartiana.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/Mozartiana.jpg",
         url: "http://listen.radionomy.com/mozartiana"
     }],
     
     HitsClassicalMusic: [{
         title: "1000 Hits Classical Music",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/HitsClassicalMusic.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/HitsClassicalMusic.jpg",
         url: "http://listen.radionomy.com/1000hitsclassicalmusic"
     }],
     
     InstrumentalHits: [{
         title: "Instrumental Hits",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/InstrumentalHits.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/InstrumentalHits.jpg",
         url: "http://listen.radionomy.com/instrumental-hits"
     }],
     
     AmbianceClassique: [{
         title: "Ambiance Classique",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/AmbianceClassique.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/AmbianceClassique.jpg",
         url: "http://listen.radionomy.com/ambiance-classique"
     }],
     
     RadioChopin: [{
         title: "Radio Chopin",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioChopin.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/RadioChopin.jpg",
         url: "http://listen.radionomy.com/radio-chopin"
     }],
     
     RadioBach: [{
         title: "Radio Bach",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioBach.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/RadioBach.jpg",
         url: "http://listen.radionomy.com/radio-bach"
     }],
     
     BeethovenRadio: [{
         title: "Beethoven Radio",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/BeethovenRadio.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/BeethovenRadio.jpg",
         url: "http://listen.radionomy.com/beethoven-radio"
     }],
     
     RadioNostalgia: [{
         title: "Radio Nostalgia",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioNostalgia.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/RadioNostalgia.jpg",
         url: "http://listen.radionomy.com/radio-nostalgia"
     }],
     
     BobMarleyRadio: [{
         title: "Bob Marley Radio",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/BobMarleyRadio.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/BobMarleyRadio.jpg",
         url: "http://listen.radionomy.com/bob-marley"
     }],
     
     
     LeJamRadio: [{
         title: "LEDJAM Radio",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/LeJamRadio.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/LeJamRadio.jpg",
         url: "http://listen.radionomy.com/ledjamradio.mp3"
     }],
     
     ABCLove: [{
         title: "ABC Love",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/ABCLove.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/ABCLove.jpg",
         url: "http://listen.radionomy.com/abc-love"
     }],
     
     RevolutionFM: [{
         title: "Revolution FM",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/RockRadio.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/RockRadio.jpg",
         url: "http://listen.radionomy.com/revolution-fm.m3u"
     }],
     
     RadioUnoPlus: [{
         title: "Radio Uno Plus",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/RockRadio.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/RockRadio.jpg",
         url: "http://listen.radionomy.com/radiounoplus.m3u"
     }],
     
     Corailradio: [{
         title: "Corail radio",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/Logo_Corail4_HD1200.png",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/Logo_Corail4_HD1200.png",
         url: "http://listen.radionomy.com/corail.m3u"
     }],
     
     Corail80: [{
         title: "Corail 80",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/Logo_Corail80_2HD1200.png",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/Logo_Corail80_2HD1200.png",
         url: "http://listen.radionomy.com/corail-80-.m3u"
     }],
     
     Corailstation: [{
         title: "Corail station",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/Logo_Corailstation3_HD1200.png",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/Logo_Corailstation3_HD1200.png",
         url: "http://listen.radionomy.com/corail-station-.m3u"
     }],
     
     Corailvintage: [{
         title: "Corail vintage",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/Logo_Corailvintage_HD1200.png",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/Logo_Corailvintage_HD1200.png",
         url: "http://listen.radionomy.com/corailvintage60-70.m3u"
     }],
     
     RadioBelfortaine: [{
         title: "Radio Belfortaine",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/radiobelfortaine.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/radiobelfortaine.jpg",
         url: "http://listen.radionomy.com/radiobelfortaine"
     }],
     
     SoundtracksForeverRadio: [{
         title: "Soundtracks Forever Radio",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/SF_Radio_600.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/SF_Radio_600.jpg",
         url: "http://listen.radionomy.com/soundtracksforever"
     }],
     
     SubarashiiRadioManga: [{
         title: "Subarashii Radio Manga",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/SubarashiiRadioManga.png",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/SubarashiiRadioManga.png",
         url: "http://listen.radionomy.com/subarashii"
     }],
     
     RadioNapoli: [{
         title: "Radio Napoli",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/radionapoli.jpg",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/radionapoli.jpg",
         url: "http://listen.radionomy.com/radionapoli"
     }],
     
     EliumRadioClub: [{
         title: "EliumRadio Club and Dance",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/eliumradio/1.png",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/eliumradio/1.png",
         url: "http://listen.radionomy.com/elium-clubdance"
     }],
     
     EliumRadioRock: [{
         title: "EliumRadio Rock and Pop",
-        artworkImageURL: "${this.BASEURL}/resources/images/radio/eliumradio/2.png",
+        artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/eliumradio/2.png",
         url: "http://listen.radionomy.com/elium-rock"
     }],
     
     MarcsRadio: [{
                  title: "Marcs Radio",
-                 artworkImageURL: "${this.BASEURL}/resources/images/radio/marcsradio.png",
+                 artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/marcsradio.png",
                  url: "http://listen.radionomy.com/marcsradio.m3u"
                  }],
     
     ChannelTrance: [{
                  title: "Channel Trance",
-                 artworkImageURL: "${this.BASEURL}/resources/images/radio/channeltrance.png",
+                 artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/channeltrance.png",
                  url: "http://serveur3.wanastream.com:17400/listen.pls"
                  }],
     
     ZenForYou: [{
                  title: "Zen For You",
-                 artworkImageURL: "${this.BASEURL}/resources/images/radio/zenforyou.jpg",
+                 artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/zenforyou.jpg",
                  url: "http://listen.radionomy.com/zen-for-you"
                  }],
     
     MaxximumOxyclub: [{
                  title: "Maxximum Oxyclub",
-                 artworkImageURL: "${this.BASEURL}/resources/images/radio/maxximumoxyclub.jpg",
+                 artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/maxximumoxyclub.jpg",
                  url: "http://listen.radionomy.com/maxximumoxyclub"
                  }],
     
     TaiwanLounge: [{
                  title: "Taiwan Lounge",
-                 artworkImageURL: "${this.BASEURL}/resources/images/radio/TAIWANLOUNGERADIO.png",
+                 artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/TAIWANLOUNGERADIO.png",
                  url: "http://listen.radionomy.com/taiwan-lounge.m3u"
                  }],
     
     LaRadioduCinema: [{
                  title: "La Radio du Cinema",
-                 artworkImageURL: "${this.BASEURL}/resources/images/radio/laradioducinema.png",
+                 artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/laradioducinema.png",
                  url: "http://listen.radionomy.com/pointures"
                  }],
     
     LivefromtheMia: [{
                  title: "Live from the Mia",
-                 artworkImageURL: "${this.BASEURL}/resources/images/radio/LivefromtheMia.jpg",
+                 artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/LivefromtheMia.jpg",
                  url: "https://lc.cx/4Yg4"
                  }],
     
     Alfunkradio: [{
                  title: "Al funk webradio",
-                 artworkImageURL: "${this.BASEURL}/resources/images/radio/AllFunkWeberadio.jpg",
+                 artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/AllFunkWeberadio.jpg",
                  url: "http://listen.radionomy.com/alfunkwebradio"
                  }],
     
     FM80: [{
                  title: "FM 80",
-                 artworkImageURL: "${this.BASEURL}/resources/images/radio/FM80.png",
+                 artworkImageURL: "https://nathanxsnow.github.io/miplonox/resources/images/radio/FM80.png",
                  url: "http://listen.shoutcast.com/fm-80.m3u"
                  }],
 };
