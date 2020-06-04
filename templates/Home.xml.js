@@ -146,15 +146,15 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
             <title class="showTextOnHighlight">MixFeever</title>
         </lockup>
         <lockup Id="Funradio">
-            <img src="https://radiomyme.com/tv/resources/images/radio/Funradio.jpg" width="250" height="350" />
+            <img src="https://abload.de/img/12040191-960464833704dfkn3.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Funradio</title>
         </lockup>
         <lockup Id="Parazhit">
-            <img src="https://radiomyme.com/tv/resources/images/radio/parazhit.png" width="250" height="350" />
+            <img src="https://abload.de/img/81jpimw2qal._sl1500_4ojv7.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Parazhit</title>
         </lockup>
         <lockup Id="EliumRadioRock">
-            <img src="https://radiomyme.com/tv/resources/images/radio/eliumradio/2.png" width="250" height="350" />
+            <img src="https://abload.de/img/qikjy.png" width="250" height="350" />
             <title class="showTextOnHighlight">EliumRadio Rock and Pop</title>
         </lockup>
         </section>
