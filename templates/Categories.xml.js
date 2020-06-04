@@ -33,7 +33,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
               <grid>
                 <section>
         <lockup Id="DanceWave">
-          <img src="http://data.radiomyme.com/tv/resources/images/radio/DanceWave.jpg" width="308" height="308" />
+          <img src="https://abload.de/img/ong-bak-34kkzm.jpg" width="308" height="308" />
           <title class="showTextOnHighlight">Dance Wave</title>
         </lockup>
         <lockup Id="IbizaGlobal">
