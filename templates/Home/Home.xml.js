@@ -150,7 +150,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
             <title class="showTextOnHighlight">OldOne</title>
         </lockup>
         <lockup Id="NRJ">
-            <img src="${this.BASEURL}/resources/images/radio/NRJ.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/hitmangtjzk.jpg" width="308" height="308" />
             <title class="showTextOnHighlight">NRJ</title>
         </lockup>
         <lockup Id="DanceWave">
