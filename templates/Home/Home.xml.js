@@ -524,46 +524,6 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
         </section>
       </shelf>
       
-            <shelf>
-        <header>
-          <title>Pop Rock Radios</title>
-        </header>
-        <section>
-          <lockup Id="RadioNostalgia">
-          <img src="${this.BASEURL}/resources/images/radio/RadioNostalgia.jpg" width="308" height="308" />
-          <title class="showTextOnHighlight">Radio Nostalgia</title>
-        </lockup>
-        <lockup Id="ClassicalHits">
-          <img src="${this.BASEURL}/resources/images/radio/ClassicalHits.jpg" width="308" height="308" />
-          <title class="showTextOnHighlight">1000 Classical Hits</title>
-        </lockup>
-        <lockup Id="ChristmasCarolsRadio">
-          <img src="${this.BASEURL}/resources/images/radio/ChristmasCarolsRadio.jpg" width="308" height="308" />
-          <title class="showTextOnHighlight">Christmas Carols Radio</title>
-        </lockup>
-        <lockup Id="CINEMIX">
-          <img src="${this.BASEURL}/resources/images/radio/CINEMIX.jpg" width="308" height="308" />
-          <title class="showTextOnHighlight">CINEMIX</title>
-        </lockup>
-        <lockup Id="SmoothRiviera">
-          <img src="${this.BASEURL}/resources/images/radio/SmoothRiviera.jpg" width="308" height="308" />
-          <title class="showTextOnHighlight">Smooth Riviera</title>
-        </lockup>
-        <lockup Id="BobMarleyRadio">
-          <img src="${this.BASEURL}/resources/images/radio/BobMarleyRadio.jpg" width="308" height="308" />
-          <title class="showTextOnHighlight">Bob Marley Radio</title>
-        </lockup>
-        <lockup Id="LeJamRadio">
-          <img src="${this.BASEURL}/resources/images/radio/LeJamRadio.jpg" width="308" height="308" />
-          <title class="showTextOnHighlight">LEDJAM Radio</title>
-        </lockup>
-        <lockup Id="ABCLove">
-          <img src="${this.BASEURL}/resources/images/radio/ABCLove.jpg" width="308" height="308" />
-          <title class="showTextOnHighlight">ABC Love</title>
-        </lockup>    
-        </section>
-      </shelf>
-     
     </collectionList>
   </stackTemplate>
 </document>`
