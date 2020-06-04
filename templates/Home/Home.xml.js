@@ -109,7 +109,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
       <carousel>
         <section>
         <lockup template="${this.BASEURL}/templates/Radiomyme.xml.js">
-            <img src="${this.BASEURL}/resources/images/slide/slide.jpg" width="1740" height="500" />
+            <img src="https://abload.de/img/3324083ajzd.jpg" width="1740" height="500" />
             <overlay>
                 <title>Radiomyme</title>
                 <subtitle>Electro - Pop - Dance</subtitle>
