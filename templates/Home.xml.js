@@ -126,23 +126,23 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
         </header>
         <section>
         <lockup Id="NRJ">
-            <img src="https://radiomyme.com/tv/resources/images/radio/NRJ.jpg" width="250" height="350" />
+            <img src="https://abload.de/img/extraction-netflix-4kjwkwz.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">NRJ</title>
         </lockup>
         <lockup Id="DanceWave">
-            <img src="https://radiomyme.com/tv/resources/images/radio/DanceWave.jpg" width="250" height="350" />
+            <img src="https://abload.de/img/71pra814mjl._ac_sy679ykkl2.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Dance Wave</title>
         </lockup>
         <lockup Id="EliumRadioClub">
-            <img src="https://radiomyme.com/tv/resources/images/radio/eliumradio/1.png" width="250" height="350" />
+            <img src="https://abload.de/img/e78bdb11c37f4fbbc37b59lkss.png" width="250" height="350" />
             <title class="showTextOnHighlight">EliumRadio Club and Dance</title>
         </lockup>
         <lockup Id="Hotmix">
-            <img src="https://radiomyme.com/tv/resources/images/radio/hotmix.jpg" width="250" height="350" />
+            <img src="https://abload.de/img/terminator-darkfatee4kbv.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">HotMix Radio Dance</title>
         </lockup>
         <lockup Id="MixFeever">
-            <img src="https://radiomyme.com/tv/resources/images/radio/mixfeever.jpg" width="250" height="350" />
+            <img src="https://abload.de/img/353a441c-b1a1-44c3-afftkd6.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">MixFeever</title>
         </lockup>
         <lockup Id="Funradio">
