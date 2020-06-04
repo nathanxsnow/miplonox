@@ -109,7 +109,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
       <carousel>
         <section>
         <lockup Id="NRJ">
-            <img src="https://radiomyme.com/tv/resources/images/slide/nrj_slide.png" width="1740" height="500" />
+            <img src="https://abload.de/img/resident-evil-6-the-fjgk3s.jpg" width="1740" height="500" />
         </lockup>
         <lockup Id="Contact">
             <img src="https://radiomyme.com/tv/resources/images/slide/contact_slide.png" width="1740" height="500" />
