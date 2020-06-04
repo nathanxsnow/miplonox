@@ -190,7 +190,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
         </header>
         <section>
         <lockup Id="RTL">
-            <img src="${this.BASEURL}/resources/images/radio/RTL.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/ong-bak-34kkzm.jpg" width="308" height="308" />
             <title class="showTextOnHighlight">RTL</title>
         </lockup>
         <lockup Id="RTL2">
