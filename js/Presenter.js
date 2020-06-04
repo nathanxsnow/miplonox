@@ -389,650 +389,650 @@ function setPlaybackEventListeners(currentPlayer) {
 var LiveFlux = {
     Radiomyme: [{
         title: "Radiomyme",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/Radiomyme.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/Radiomyme.jpg",
         url: "http://listen.radionomy.com/radiomyme-tv"
     }],
 
     ClubOne: [{
         title: "Club One",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/Club1.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/Club1.jpg",
         url: "http://listen.radionomy.com/clubone"
     }],
     
     OldOne: [{
         title: "OldOne",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/OldOne.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/OldOne.jpg",
         url: "http://listen.radionomy.com/oldone"
     }],
     
     Parazhit: [{
         title: "Parazhit",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/parazhit.png",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/parazhit.png",
         url: "http://bit.ly/1OBiXFE"
     }],
     
     NRJ: [{
         title: "NRJ",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/NRJ.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/NRJ.jpg",
         url: "http://185.52.127.160/fr/30001/mp3_128.mp3?origine=fluxradios"
     }],
     
     DanceWave: [{
         title: "Dance Wave",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/DanceWave.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/DanceWave.jpg",
         url: "http://dancewave.online/dance.mp3.pls"
     }],
     
     Hotmix: [{
         title: "HotMix Radio Dance",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/hotmix.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/hotmix.jpg",
         url: "http://listen.radionomy.com/hotmixradio-dance-128.m3u"
     }],
     
     MixFeever: [{
         title: "MixFeever",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/mixfeever.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/mixfeever.jpg",
         url: "http://listen.radionomy.com/feevermix.m3u"
     }],
     
     Funradio: [{
         title: "Funradio",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/Funradio.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/Funradio.jpg",
         url: "http://streaming.radio.funradio.fr/fun-1-48-192"
     }],
     
     RTL: [{
         title: "RTL",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/RTL.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/RTL.jpg",
         url: "http://streaming.radio.rtl.fr/rtl-1-44-96"
     }],
     
     RTL2: [{
         title: "RTL 2",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/rtl/RTL2.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/rtl/RTL2.jpg",
         url: "http://streaming.radio.rtl2.fr:80/rtl2-1-44-96"
     }],
     
     Europe1: [{
         title: "Europe 1",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/europe1.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/europe1.jpg",
         url: "http://mp3lg3.scdn.arkena.com/10489/europe1.mp3"
     }],
     
     Contact: [{
         title: "Contact FM",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/contact.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/contact.jpg",
         url: "http://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3"
     }],
     
     Nostalgie: [{
         title: "Nostalgie",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/nostalgie.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/nostalgie.jpg",
         url: "http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios"
     }],
     
     Skyrock: [{
         title: "Skyrock",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/skyrock.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/skyrock.jpg",
         url: "http://icecast.skyrock.net/s/natio_mp3_128k"
     }],
     
     RFM: [{
         title: "RFM",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/rfm.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/rfm.jpg",
         url: "http://rfm-live-mp3-128.scdn.arkena.com/rfm.mp3"
     }],
     
    	VirginRadio: [{
         title: "Virgin Radio",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/virginradio.png",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/virginradio.png",
         url: "http://vr-live-mp3-128.scdn.arkena.com/virginradio.mp3"
     }],
     
     RMC: [{
         title: "RMC",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/rmc.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/rmc.jpg",
         url: "http://chai5she.cdn.dvmr.fr/rmcinfo"
     }],
     
     CherieFM: [{
         title: "Cherie FM",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/cheriefm.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/cheriefm.jpg",
         url: "http://cdn.nrjaudio.fm/audio1/fr/30201/mp3_128.mp3?origine=fluxradios"
     }],
     
     RireChanson: [{
         title: "Rire et Chanson",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/rireetchanson.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/rireetchanson.jpg",
         url: "http://cdn.nrjaudio.fm/audio1/fr/30401/mp3_128.mp3?origine=fluxradios"
     }],
     
     FranceINFO: [{
         title: "France Info",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/franceinfo.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/franceinfo.jpg",
         url: "http://direct.franceinfo.fr/live/franceinfo-midfi.mp3"
     }],
     
     FranceINTER: [{
         title: "France Inter",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/franceinter.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/franceinter.jpg",
         url: "http://direct.franceinter.fr/live/franceinter-midfi.mp3"
     }],
     
     IbizaGlobal: [{
         title: "Ibiza Global Radio",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/ibizaglobalradio.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/ibizaglobalradio.jpg",
         url: "http://ibizaglobalradio.streaming-pro.com:8024/"
     }],
     
     SunshineLive: [{
         title: "Sunshine Live",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/sunshinelive.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/sunshinelive.jpg",
         url: "http://stream.sunshine-live.de/live/mp3-192/Webradio-Player/"
     }],
     
    	Top40: [{
         title: "1 FM Top 40",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/1FMtop40.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/1FMtop40.jpg",
         url: "http://strm112.1.fm/top40_mobile_mp3"
     }],
     
     ChartHitsFM: [{
         title: "Chart Hits FM",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/ChartHitsFM.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/ChartHitsFM.jpg",
         url: "http://charthits-high.rautemusik.fm/listen.pls"
     }],
     
     IbizaSonica: [{
         title: "Ibiza Sonica",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/ibizasonica.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/ibizasonica.jpg",
         url: "http://bit.ly/1TYRJHZ"
     }],
     
     Trance1FM: [{
         title: "1 FM Trance",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/1FMTrance.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/1FMTrance.jpg",
         url: "http://strm112.1.fm/trance_mobile_mp3"
     }],
     
     Radio7: [{
         title: "Radio Seven",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/radio7.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/radio7.jpg",
         url: "http://play.radioseven.se/128.pls"
     }],
     
     Frisky: [{
         title: "Frisky",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/frisky.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/frisky.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=47007"
     }],
     
     RadioDance1: [{
         title: "1 Dance Radio",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/radiodance.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/radiodance.jpg",
         url: "http://listen.radionomy.com/1-radio-dance"
     }],
     
    	BassDrive: [{
         title: "BassDrive",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/bassdrive.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/bassdrive.jpg",
         url: "http://bassdrive.com/bassdrive3.m3u"
     }],
     
     BigCityBeats: [{
         title: "Big City Beats",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/bigcitybeats.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/bigcitybeats.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=61568"
     }],
     
     BlueMarlinIbiza: [{
         title: "Blue Marlin Ibiza",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/BlueMarlinIbiza.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/BlueMarlinIbiza.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=302916"
     }],
     
     Quisqueya: [{
         title: "Quisqueya",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/Quisqueya.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/Quisqueya.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=923464"
     }],
     
     RadioPiekary: [{
         title: "Radio Piekary",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/RadioPiekary.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioPiekary.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=979102"
     }],
     
     RadioBeatsfm: [{
         title: "Radio Beats FM",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/beatsfm.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/beatsfm.jpg",
         url: "http://ibizaglobalradio.streaming-pro.com:8024/"
     }],
     
     RancheritadelAire: [{
         title: "La Rancherita del Aire",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/RancheritadelAire.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/RancheritadelAire.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=769470"
     }],
     
    	RadioUnoPlus: [{
         title: "Radio Uno Plus",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/RadioUnoPlus.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioUnoPlus.jpg",
         url: "http://listen.radionomy.com/radiounoplus"
     }],
     
     ColombiaCrossOver: [{
         title: "Colombia CrossOver",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/ColombiaCrossOver.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/ColombiaCrossOver.jpg",
         url: "http://listen.radionomy.com/colombiacrossover"
     }],
     
     COLOMBIASALSAROSA: [{
         title: "Colombia Salsa Rosa",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/COLOMBIASALSAROSA.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/COLOMBIASALSAROSA.jpg",
         url: "http://listen.radionomy.com/colombiasalsarosa"
     }],
     
     CUMBIASINMORTALES: [{
         title: "Cumbias Inmortales",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/CUMBIASINMORTALES.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/CUMBIASINMORTALES.jpg",
         url: "http://listen.radionomy.com/cumbias-inmortales"
     }],
     
     TropicalisimaBaladas: [{
         title: "Tropicalisima Baladas",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/TropicalisimaBaladas.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/TropicalisimaBaladas.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=402247"
     }],
     
     RadioKaribeaChala: [{
         title: "Radio Karibea Chala",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/RadioKaribeaChala.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioKaribeaChala.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=394674"
     }],
     
    	RitmoFM: [{
         title: "Ritmo 96 5 FM",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/RitmoFM.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/RitmoFM.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=299319"
     }],
     
     LaRazaFM: [{
         title: "La Raza 106 1 FM",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/LaRazaFM.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/LaRazaFM.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=116014"
     }],
     
     SuperKFM: [{
         title: "Super K 100 7 FM",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/SuperKFM.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/SuperKFM.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=126643"
     }],
     
     LaXEstereo: [{
         title: "La X Estereo",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/LaXEstereo.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/LaXEstereo.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=369433"
     }],
 
     ANTENA1: [{
         title: "Antena 1",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/ANTENA1.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/ANTENA1.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=830692"
     }],
     
     RUSSIANHIT: [{
         title: "Russian Hit",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/RUSSIANHIT.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/RUSSIANHIT.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=160882"
     }],
     
     RADIOSCOOPHUNGARY: [{
         title: "Radioscoop Hungary",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/RADIOSCOOPHUNGARY.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/RADIOSCOOPHUNGARY.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=719284"
     }],
     
    	KissFMRomania: [{
         title: "KissFM Romania",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/KissFMRomania.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/KissFMRomania.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=528480"
     }],
     
     HitradioOE3: [{
         title: "Hitradio OE3",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/HitradioOE3.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/HitradioOE3.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=195363"
     }],
     
     RadioZULive: [{
         title: "Radio ZU Live",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/RadioZULive.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioZULive.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=496791"
     }],
     
     Evangelizar: [{
         title: "Evangelizar",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/Evangelizar.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/Evangelizar.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=501985"
     }],
     
     LasMasBailadas: [{
         title: "Las Mas Bailadas",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/LasMasBailadas.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/LasMasBailadas.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=219515"
     }],
     
     KralFM: [{
         title: "Kral FM",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/KralFM.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/KralFM.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=201663"
     }],
     
    	Shanson: [{
         title: "Shanson 101 9 Kiev",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/Shansono.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/Shansono.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=53530"
     }],
     
     KralPop: [{
         title: "Kral Pop",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/KralPop.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/KralPop.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.pls?id=31023"
     }],
     
     WebRadioRiodoOestenaBalada: [{
         title: "Web Radio Rio do Oeste na Balada",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/PopRadio.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/PopRadio.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=126643"
     }],
     
     AntenneBayern: [{
         title: "Antenne Bayern",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/AntenneBayern.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/AntenneBayern.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.m3u?id=403432"
     }],
 
     MegaRadio: [{
         title: "Mega Radio",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/MegaRadio.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/MegaRadio.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.pls?id=653998"
     }],
     
     RadioRomaniaInternational: [{
         title: "Radio Romania International",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/RadioRomaniaInternational.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioRomaniaInternational.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.pls?id=99194139"
     }],
     
    	DJFMUkraine: [{
         title: "DJFM Ukraine",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/DJFMUkraine.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/DJFMUkraine.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.pls?id=1629506"
     }],
     
     Narodniradio: [{
         title: "Narodni radio",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/Narodniradio.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/Narodniradio.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.pls?id=1397078"
     }],
     
     ShowRadyo: [{
         title: "Show Radyo",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/ShowRadyo.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/ShowRadyo.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.pls?id=524473"
     }],
     
     ClubeFM: [{
         title: "Clube FM",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/ClubeFM.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/ClubeFM.jpg",
         url: "http://yp.shoutcast.com/sbin/tunein-station.pls?id=869363"
     }],
     
     RadioMozart: [{
         title: "Radio Mozart",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/RadioMozart.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioMozart.jpg",
         url: "http://listen.radionomy.com/radio-mozart"
     }],
     
     SmoothRiviera: [{
         title: "Smooth Riviera",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/SmoothRiviera.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/SmoothRiviera.jpg",
         url: "http://listen.radionomy.com/smooth-riviera"
     }],
     
     ABCPiano: [{
         title: "ABC Piano",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/ABCPiano.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/ABCPiano.jpg",
         url: "http://listen.radionomy.com/abc-piano"
     }],
     
     ClassicalHits: [{
         title: "1000 Classical Hits",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/ClassicalHits.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/ClassicalHits.jpg",
         url: "http://listen.radionomy.com/1000classicalhits"
     }],
     
     ChristmasCarolsRadio: [{
         title: "Christmas Carols Radio",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/ChristmasCarolsRadio.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/ChristmasCarolsRadio.jpg",
         url: "http://listen.radionomy.com/christmascarolsradio"
     }],
     
     CINEMIX: [{
         title: "CINEMIX",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/CINEMIX.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/CINEMIX.jpg",
         url: "http://listen.shoutcast.com/CINEMIX-1"
     }],
     
     BarockMusic: [{
         title: "Barock Music",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/BarockMusic.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/BarockMusic.jpg",
         url: "http://listen.radionomy.com/barock-music"
     }],
     
     AbacusFMMozartPiano: [{
         title: "Abacus FM Mozart Piano",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/AbacusFMMozartPiano.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/AbacusFMMozartPiano.jpg",
         url: "http://listen.radionomy.com/abacusfm-mozart-piano"
     }],
     
     AbacusFMBach: [{
         title: "Abacus FM Bach",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/AbacusFMBach.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/AbacusFMBach.jpg",
         url: "http://listen.radionomy.com/abacusfm-bach"
     }],
     
     Mozartiana: [{
         title: "Mozartiana",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/Mozartiana.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/Mozartiana.jpg",
         url: "http://listen.radionomy.com/mozartiana"
     }],
     
     HitsClassicalMusic: [{
         title: "1000 Hits Classical Music",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/HitsClassicalMusic.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/HitsClassicalMusic.jpg",
         url: "http://listen.radionomy.com/1000hitsclassicalmusic"
     }],
     
     InstrumentalHits: [{
         title: "Instrumental Hits",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/InstrumentalHits.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/InstrumentalHits.jpg",
         url: "http://listen.radionomy.com/instrumental-hits"
     }],
     
     AmbianceClassique: [{
         title: "Ambiance Classique",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/AmbianceClassique.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/AmbianceClassique.jpg",
         url: "http://listen.radionomy.com/ambiance-classique"
     }],
     
     RadioChopin: [{
         title: "Radio Chopin",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/RadioChopin.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioChopin.jpg",
         url: "http://listen.radionomy.com/radio-chopin"
     }],
     
     RadioBach: [{
         title: "Radio Bach",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/RadioBach.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioBach.jpg",
         url: "http://listen.radionomy.com/radio-bach"
     }],
     
     BeethovenRadio: [{
         title: "Beethoven Radio",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/BeethovenRadio.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/BeethovenRadio.jpg",
         url: "http://listen.radionomy.com/beethoven-radio"
     }],
     
     RadioNostalgia: [{
         title: "Radio Nostalgia",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/RadioNostalgia.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/RadioNostalgia.jpg",
         url: "http://listen.radionomy.com/radio-nostalgia"
     }],
     
     BobMarleyRadio: [{
         title: "Bob Marley Radio",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/BobMarleyRadio.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/BobMarleyRadio.jpg",
         url: "http://listen.radionomy.com/bob-marley"
     }],
     
     
     LeJamRadio: [{
         title: "LEDJAM Radio",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/LeJamRadio.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/LeJamRadio.jpg",
         url: "http://listen.radionomy.com/ledjamradio.mp3"
     }],
     
     ABCLove: [{
         title: "ABC Love",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/ABCLove.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/ABCLove.jpg",
         url: "http://listen.radionomy.com/abc-love"
     }],
     
     RevolutionFM: [{
         title: "Revolution FM",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/RockRadio.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/RockRadio.jpg",
         url: "http://listen.radionomy.com/revolution-fm.m3u"
     }],
     
     RadioUnoPlus: [{
         title: "Radio Uno Plus",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/RockRadio.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/RockRadio.jpg",
         url: "http://listen.radionomy.com/radiounoplus.m3u"
     }],
     
     Corailradio: [{
         title: "Corail radio",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/Logo_Corail4_HD1200.png",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/Logo_Corail4_HD1200.png",
         url: "http://listen.radionomy.com/corail.m3u"
     }],
     
     Corail80: [{
         title: "Corail 80",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/Logo_Corail80_2HD1200.png",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/Logo_Corail80_2HD1200.png",
         url: "http://listen.radionomy.com/corail-80-.m3u"
     }],
     
     Corailstation: [{
         title: "Corail station",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/Logo_Corailstation3_HD1200.png",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/Logo_Corailstation3_HD1200.png",
         url: "http://listen.radionomy.com/corail-station-.m3u"
     }],
     
     Corailvintage: [{
         title: "Corail vintage",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/Logo_Corailvintage_HD1200.png",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/Logo_Corailvintage_HD1200.png",
         url: "http://listen.radionomy.com/corailvintage60-70.m3u"
     }],
     
     RadioBelfortaine: [{
         title: "Radio Belfortaine",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/radiobelfortaine.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/radiobelfortaine.jpg",
         url: "http://listen.radionomy.com/radiobelfortaine"
     }],
     
     SoundtracksForeverRadio: [{
         title: "Soundtracks Forever Radio",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/SF_Radio_600.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/SF_Radio_600.jpg",
         url: "http://listen.radionomy.com/soundtracksforever"
     }],
     
     SubarashiiRadioManga: [{
         title: "Subarashii Radio Manga",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/SubarashiiRadioManga.png",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/SubarashiiRadioManga.png",
         url: "http://listen.radionomy.com/subarashii"
     }],
     
     RadioNapoli: [{
         title: "Radio Napoli",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/radionapoli.jpg",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/radionapoli.jpg",
         url: "http://listen.radionomy.com/radionapoli"
     }],
     
     EliumRadioClub: [{
         title: "EliumRadio Club and Dance",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/eliumradio/1.png",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/eliumradio/1.png",
         url: "http://listen.radionomy.com/elium-clubdance"
     }],
     
     EliumRadioRock: [{
         title: "EliumRadio Rock and Pop",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/eliumradio/2.png",
+        artworkImageURL: "${this.BASEURL}/resources/images/radio/eliumradio/2.png",
         url: "http://listen.radionomy.com/elium-rock"
     }],
     
     MarcsRadio: [{
                  title: "Marcs Radio",
-                 artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/marcsradio.png",
+                 artworkImageURL: "${this.BASEURL}/resources/images/radio/marcsradio.png",
                  url: "http://listen.radionomy.com/marcsradio.m3u"
                  }],
     
     ChannelTrance: [{
                  title: "Channel Trance",
-                 artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/channeltrance.png",
+                 artworkImageURL: "${this.BASEURL}/resources/images/radio/channeltrance.png",
                  url: "http://serveur3.wanastream.com:17400/listen.pls"
                  }],
     
     ZenForYou: [{
                  title: "Zen For You",
-                 artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/zenforyou.jpg",
+                 artworkImageURL: "${this.BASEURL}/resources/images/radio/zenforyou.jpg",
                  url: "http://listen.radionomy.com/zen-for-you"
                  }],
     
     MaxximumOxyclub: [{
                  title: "Maxximum Oxyclub",
-                 artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/maxximumoxyclub.jpg",
+                 artworkImageURL: "${this.BASEURL}/resources/images/radio/maxximumoxyclub.jpg",
                  url: "http://listen.radionomy.com/maxximumoxyclub"
                  }],
     
     TaiwanLounge: [{
                  title: "Taiwan Lounge",
-                 artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/TAIWANLOUNGERADIO.png",
+                 artworkImageURL: "${this.BASEURL}/resources/images/radio/TAIWANLOUNGERADIO.png",
                  url: "http://listen.radionomy.com/taiwan-lounge.m3u"
                  }],
     
     LaRadioduCinema: [{
                  title: "La Radio du Cinema",
-                 artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/laradioducinema.png",
+                 artworkImageURL: "${this.BASEURL}/resources/images/radio/laradioducinema.png",
                  url: "http://listen.radionomy.com/pointures"
                  }],
     
     LivefromtheMia: [{
                  title: "Live from the Mia",
-                 artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/LivefromtheMia.jpg",
+                 artworkImageURL: "${this.BASEURL}/resources/images/radio/LivefromtheMia.jpg",
                  url: "https://lc.cx/4Yg4"
                  }],
     
     Alfunkradio: [{
                  title: "Al funk webradio",
-                 artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/AllFunkWeberadio.jpg",
+                 artworkImageURL: "${this.BASEURL}/resources/images/radio/AllFunkWeberadio.jpg",
                  url: "http://listen.radionomy.com/alfunkwebradio"
                  }],
     
     FM80: [{
                  title: "FM 80",
-                 artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/FM80.png",
+                 artworkImageURL: "${this.BASEURL}/resources/images/radio/FM80.png",
                  url: "http://listen.shoutcast.com/fm-80.m3u"
                  }],
 };
