@@ -413,7 +413,7 @@ var LiveFlux = {
     
     NRJ: [{
         title: "NRJ",
-        artworkImageURL: "https://abload.de/img/12040191-960464833704dfkn3.jpg",
+        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/hotmix.jpg",
         url: "http://185.52.127.160/fr/30001/mp3_128.mp3?origine=fluxradios"
     }],
     
