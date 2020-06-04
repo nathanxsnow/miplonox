@@ -108,21 +108,21 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
     <collectionList>  
       <carousel>
         <section>
-        <lockup template="${this.BASEURL}/templates/Radiomyme.xml.js">
+        <lockup 
             <img src="https://abload.de/img/3324083ajzd.jpg" width="1740" height="500" />
             <overlay>
                 <title>Radiomyme</title>
                 <subtitle>Electro - Pop - Dance</subtitle>
             </overlay>
         </lockup>
-        <lockup template="${this.BASEURL}/templates/Clubone.xml.js">
+        <lockup 
             <img src="${this.BASEURL}/resources/images/slide/slide2.jpg" width="1740" height="500" />
             <overlay>
                 <title>Club One</title>
                 <subtitle>House - Chill</subtitle>
             </overlay>
         </lockup>
-        <lockup template="${this.BASEURL}/templates/OldOne.xml.js">
+        <lockup 
             <img src="${this.BASEURL}/resources/images/slide/slide3.jpg" width="1740" height="500" />
             <overlay>
                 <title>OldOne</title>
