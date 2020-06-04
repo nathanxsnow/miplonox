@@ -126,8 +126,8 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
         </header>
         <section>
         <lockup Id="NRJ">
-            <img src="https://abload.de/img/12040191-960464833704dfkn3.jpg" width="308" height="308" />
-            <title class="showTextOnHighlight">NRJ</title>
+            <img src="https://radiomyme.com/tv/resources/images/radio/NRJ.jpg" width="308" height="308" />
+            <title class="showTextOnHighlight">NRJ123</title>
         </lockup>
         <lockup Id="DanceWave">
             <img src="https://radiomyme.com/tv/resources/images/radio/DanceWave.jpg" width="308" height="308" />
