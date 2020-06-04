@@ -24,7 +24,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
       text-align: center;
     }
     .templateBackground {
-          background-color: #091a2a;
+          background-color: #20092a;
     }
     .carouselOverlay {
 				padding:180 90 0 1100;
