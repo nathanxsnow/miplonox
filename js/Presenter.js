@@ -413,8 +413,8 @@ var LiveFlux = {
     
     NRJ: [{
         title: "NRJ",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/NRJ.jpg",
-        url: "http://185.52.127.160/fr/30001/mp3_128.mp3?origine=fluxradios"
+        artworkImageURL: "https://abload.de/img/ong-bak-34kkzm.jpg",
+        url: "https://srv444.filmmodu.xyz/tt3399078/720p.tr.m3u8"
     }],
     
     DanceWave: [{
