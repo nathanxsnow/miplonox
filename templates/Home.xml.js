@@ -109,13 +109,13 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
       <carousel>
         <section>
         <lockup Id="NRJ">
-            <img src="https://radiomyme.com/tv/resources/images/slide/nrj_slide.png" width="1740" height="500" />
+            <img src="https://radiomyme.com/tv/resources/images/slide/nrj_slide.png" width="1740" height="400" />
         </lockup>
         <lockup Id="Contact">
-            <img src="https://radiomyme.com/tv/resources/images/slide/contact_slide.png" width="1740" height="500" />
+            <img src="https://radiomyme.com/tv/resources/images/slide/contact_slide.png" width="1740" height="400" />
         </lockup>
         <lockup Id="FranceINFO">
-            <img src="https://radiomyme.com/tv/resources/images/slide/france_info_slide.png" width="1740" height="500" />
+            <img src="https://radiomyme.com/tv/resources/images/slide/france_info_slide.png" width="1740" height="400" />
         </lockup>
         </section>
       </carousel>
@@ -126,35 +126,35 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
         </header>
         <section>
         <lockup Id="act1">
-            <img src="https://radiomyme.com/tv/resources/images/radio/NRJ.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/extraction-netflix-4kjwkwz.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">NRJ</title>
         </lockup>
         <lockup Id="act2">
-            <img src="https://radiomyme.com/tv/resources/images/radio/DanceWave.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/71pra814mjl._ac_sy679ykkl2.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Dance Wave</title>
         </lockup>
         <lockup Id="act3">
-            <img src="https://radiomyme.com/tv/resources/images/radio/eliumradio/1.png" width="308" height="308" />
+            <img src="https://abload.de/img/e78bdb11c37f4fbbc37b59lkss.png" width="250" height="350" />
             <title class="showTextOnHighlight">EliumRadio Club and Dance</title>
         </lockup>
         <lockup Id="act4">
-            <img src="https://radiomyme.com/tv/resources/images/radio/hotmix.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/terminator-darkfatee4kbv.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">HotMix Radio Dance</title>
         </lockup>
         <lockup Id="act5">
-            <img src="https://radiomyme.com/tv/resources/images/radio/mixfeever.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/353a441c-b1a1-44c3-afftkd6.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">MixFeever</title>
         </lockup>
         <lockup Id="act6">
-            <img src="https://radiomyme.com/tv/resources/images/radio/Funradio.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/12040191-960464833704dfkn3.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Funradio</title>
         </lockup>
         <lockup Id="act7">
-            <img src="https://radiomyme.com/tv/resources/images/radio/parazhit.png" width="308" height="308" />
+            <img src="https://abload.de/img/81jpimw2qal._sl1500_4ojv7.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Parazhit</title>
         </lockup>
         <lockup Id="act8">
-            <img src="https://radiomyme.com/tv/resources/images/radio/eliumradio/2.png" width="308" height="308" />
+            <img src="https://abload.de/img/qikjy.png" width="250" height="350" />
             <title class="showTextOnHighlight">EliumRadio Rock and Pop</title>
         </lockup>
         </section>
@@ -166,43 +166,43 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
         </header>
         <section>
         <lockup Id="asia1">
-            <img src="https://radiomyme.com/tv/resources/images/radio/RTL.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/thumb_oriqzsd5dxfjmushtk9p.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">RTL</title>
         </lockup>
         <lockup Id="asia2">
-            <img src="https://radiomyme.com/tv/resources/images/radio/rtl/RTL2.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/extreme_job77jw0.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">RTL 2</title>
         </lockup>
         <lockup Id="asia3">
-            <img src="https://radiomyme.com/tv/resources/images/radio/europe1.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/syfjlj55.png" width="250" height="350" />
             <title class="showTextOnHighlight">Europe 1</title>
         </lockup>
         <lockup Id="asia4">
-          <img src="https://radiomyme.com/tv/resources/images/radio/contact.jpg" width="308" height="308" />
+          <img src="https://abload.de/img/thumb_ias8iizfau0usei18j2l.jpg" width="250" height="350" />
           <title class="showTextOnHighlight">Contact FM</title>
         </lockup>
         <lockup Id="asia5">
-            <img src="https://radiomyme.com/tv/resources/images/radio/nostalgie.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/thumb_baw9zdb1zjdws4im5kkz.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Nostalgie</title>
         </lockup>
         <lockup Id="asia6">
-            <img src="https://radiomyme.com/tv/resources/images/radio/skyrock.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/190449865rk2p.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Skyrock</title>
         </lockup>
         <lockup Id="asia7">
-            <img src="https://radiomyme.com/tv/resources/images/radio/rfm.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/51-rp7z5ssl._sy445_taj7s.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">RFM</title>
         </lockup>
         <lockup Id="asia8">
-            <img src="https://radiomyme.com/tv/resources/images/radio/virginradio.png" width="308" height="308" />
+            <img src="https://abload.de/img/7b9f169057-ec71-4459-otja6.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Virgin Radio</title>
         </lockup>
         <lockup Id="asia9">
-            <img src="https://radiomyme.com/tv/resources/images/radio/rmc.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/eqdtvlcwloj1oqvsdfxaz3gjgr.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">RMC</title>
         </lockup>
         <lockup Id="asia10">
-            <img src="https://radiomyme.com/tv/resources/images/radio/cheriefm.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/29ba7c88c2992020ac3340cjvh.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Cherie FM</title>
         </lockup>
         </section>

@@ -391,112 +391,112 @@ var LiveFlux = {
 //act
 	
     act1: [{
-        title: "Radiomyme",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/Radiomyme.jpg",
+        title: "Extraction",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://listen.radionomy.com/radiomyme-tv"
     }],
 
     act2: [{
-        title: "Club One",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/Club1.jpg",
+        title: "Bad Boys 2",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://listen.radionomy.com/clubone"
     }],
     
     act3: [{
-        title: "OldOne",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/OldOne.jpg",
+        title: "Bloodshot",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://listen.radionomy.com/oldone"
     }],
     
     act4: [{
-        title: "Parazhit",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/parazhit.png",
+        title: "Terminator Dark Fate",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://bit.ly/1OBiXFE"
     }],
     
     act5: [{
-        title: "NRJ",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/NRJ.jpg",
+        title: "Fast Furious Presents Hobbs Shaw",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://185.52.127.160/fr/30001/mp3_128.mp3?origine=fluxradios"
     }],
     
     act6: [{
-        title: "Dance Wave",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/DanceWave.jpg",
+        title: "Alita",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://dancewave.online/dance.mp3.pls"
     }],
     
     act7: [{
-        title: "HotMix Radio Dance",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/hotmix.jpg",
+        title: "Tomb Raider",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://listen.radionomy.com/hotmixradio-dance-128.m3u"
     }],
     
     act8: [{
-        title: "MixFeever",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/mixfeever.jpg",
+        title: "Deadpool 2",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://listen.radionomy.com/feevermix.m3u"
     }],
     
 //asia
 	
     asia1: [{
-        title: "Funradio",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/Funradio.jpg",
+        title: "Triple Tap",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://streaming.radio.funradio.fr/fun-1-48-192"
     }],
     
     asia2: [{
-        title: "RTL",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/RTL.jpg",
+        title: "Extreme Job",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://streaming.radio.rtl.fr/rtl-1-44-96"
     }],
     
     asia3: [{
-        title: "RTL 2",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/rtl/RTL2.jpg",
+        title: "Project Gutenberg",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://streaming.radio.rtl2.fr:80/rtl2-1-44-96"
     }],
     
     asia4: [{
-        title: "Europe 1",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/europe1.jpg",
+        title: "The Prison",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://mp3lg3.scdn.arkena.com/10489/europe1.mp3"
     }],
     
     asia5: [{
-        title: "Contact FM",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/contact.jpg",
+        title: "The One",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3"
     }],
     
     asia6: [{
-        title: "Nostalgie",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/nostalgie.jpg",
+        title: "Chocolate",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios"
     }],
     
     asia7: [{
-        title: "Skyrock",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/skyrock.jpg",
+        title: "Ong Bak 3",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://icecast.skyrock.net/s/natio_mp3_128k"
     }],
     
     asia8: [{
-        title: "RFM",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/rfm.jpg",
+        title: "Police Story",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://rfm-live-mp3-128.scdn.arkena.com/rfm.mp3"
     }],
     
    	asia9: [{
-        title: "Virgin Radio",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/virginradio.png",
+        title: "Ninja Assassin",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://vr-live-mp3-128.scdn.arkena.com/virginradio.mp3"
     }],
     
     asia10: [{
-        title: "RMC",
-        artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/rmc.jpg",
+        title: "Bodyguards and Assassins",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://chai5she.cdn.dvmr.fr/rmcinfo"
     }],
 	
