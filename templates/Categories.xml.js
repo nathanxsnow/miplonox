@@ -33,15 +33,15 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
               <grid>
                 <section>
         <lockup Id="ulu1">
-          <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
+          <img src="https://abload.de/img/atvhdw1jzo.png" width="132" height="99" />
           <title class="showTextOnHighlight">ATV</title>
         </lockup>
         <lockup Id="ulu2">
-          <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
+          <img src="https://abload.de/img/startvgujhq.png" width="132" height="99" />
           <title class="showTextOnHighlight">STAR</title>
         </lockup>
          <lockup Id="ulu3">
-          <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
+          <img src="https://abload.de/img/showtvhd25jci.png" width="132" height="99" />
           <title class="showTextOnHighlight">SHOW TV</title>
         </lockup>
                 </section>
@@ -55,15 +55,15 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
               <grid>
                 <section>
         <lockup Id="hab1">
-            <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/ahabernok8d.png" width="132" height="99" />
             <title class="showTextOnHighlight">A HABER</title>
         </lockup>
         <lockup Id="hab2">
-            <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/ntvr7jkv.png" width="132" height="99" />
             <title class="showTextOnHighlight">NTV</title>
         </lockup>
         <lockup Id="hab3">
-            <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/cnnturkhdvgjlz.png" width="132" height="99" />
             <title class="showTextOnHighlight">CNN</title>
         </lockup>
                 </section>
