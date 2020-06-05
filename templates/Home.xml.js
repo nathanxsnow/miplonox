@@ -182,7 +182,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
           <title class="showTextOnHighlight">Contact FM</title>
         </lockup>
         <lockup Id="Nostalgie">
-            <img src="https://radiomyme.com/tv/resources/images/radio/nostalgie.jpg" width="250" height="350" />
+            <img src="https://abload.de/img/81jpimw2qal._sl1500_4ojv7.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Nostalgie</title>
         </lockup>
         <lockup Id="Skyrock">
