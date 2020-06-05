@@ -122,7 +122,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
     
       <shelf>
         <header>
-          <title>Editor's choice</title>
+          <title>Action</title>
         </header>
         <section>
         <lockup Id="NRJ">
