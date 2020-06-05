@@ -109,13 +109,13 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
       <carousel>
         <section>
         <lockup Id="NRJ">
-            <img src="https://abload.de/img/ter009ujbo.jpg" width="1000" height="420" />
+            <img src="https://abload.de/img/ter009ujbo.jpg" width="1280" height="420" />
         </lockup>
         <lockup Id="Contact">
-            <img src="https://abload.de/img/sa00cnj8q.jpg" width="1000" height="420" />
+            <img src="https://abload.de/img/sa00cnj8q.jpg" width="1280" height="420" />
         </lockup>
         <lockup Id="FranceINFO">
-            <img src="https://abload.de/img/shaz007ek0m.jpg" width="1000" height="420" />
+            <img src="https://abload.de/img/shaz007ek0m.jpg" width="1280" height="420" />
         </lockup>
         </section>
       </carousel>
@@ -174,7 +174,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
             <title class="showTextOnHighlight">RTL 2</title>
         </lockup>
         <lockup Id="Europe1">
-            <img src="https://radiomyme.com/tv/resources/images/radio/europe1.jpg" width="250" height="350" />
+            <img src="https://abload.de/img/ter009ujbo.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Europe 1</title>
         </lockup>
         <lockup Id="Contact">
