@@ -413,7 +413,7 @@ var LiveFlux = {
     
     NRJ: [{
         title: "Bandgal Raiden",
-        artworkImageURL: "https://abload.de/img/kmplayer-64x-windowsygkxi.jpg",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "https://r3---sn-vgqskned.googlevideo.com/videoplayback?expire=1591370515&ei=sw7aXp6SCsGkkwaRlJnwDQ&ip=148.163.82.6&id=o-AOKf2tMtI23iv1TGF7oUvevOdLUegjXeh4r30_ha-qAs&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=7327.544&lmt=1537637427519005&fvip=6&c=WEB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIhAKBmWj44p2Vt4lLJ1oaAmBsyylNjVG53q-QFbbY31GOHAh908PJM-MmFdbR0jz6S9hgv_MXgbKZEcCnj4l-aEm7q&title=Cesur+Y%C3%83%C2%BCrek+21.B%C3%83%C2%B6l%C3%83%C2%BCm+(Final)&redirect_counter=1&cm2rm=sn-a5my77s&req_id=b001be8df1b236e2&cms_redirect=yes&mh=vU&mip=82.102.24.242&mm=34&mn=sn-vgqskned&ms=ltu&mt=1591348751&mv=D&mvi=2&pl=0&lsparams=mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgfzBST5ecDmCbg9j3wTkGQMo_xofiUIh-2XjSJa3DogACIFEsHBxCl57YxT8pCGPhNBwLEvUznOX_JZUFLlIqKAcP"
     }],
     
