@@ -108,14 +108,14 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
     <collectionList>  
       <carousel>
         <section>
-        <lockup Id="NRJ">
-            <img src="https://radiomyme.com/tv/resources/images/slide/nrj_slide.png" width="1740" height="400" />
+        <lockup Id="act1">
+            <img src="https://abload.de/img/1np3jxm.jpg" width="1740" height="400" />
         </lockup>
-        <lockup Id="Contact">
-            <img src="https://radiomyme.com/tv/resources/images/slide/contact_slide.png" width="1740" height="400" />
+        <lockup Id="act2">
+            <img src="https://abload.de/img/2nz8kbi.jpg" width="1740" height="400" />
         </lockup>
-        <lockup Id="FranceINFO">
-            <img src="https://radiomyme.com/tv/resources/images/slide/france_info_slide.png" width="1740" height="400" />
+        <lockup Id="act3">
+            <img src="https://abload.de/img/3nwzki0.jpg" width="1740" height="400" />
         </lockup>
         </section>
       </carousel>
