@@ -170,7 +170,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
             <title class="showTextOnHighlight">RTL</title>
         </lockup>
         <lockup Id="RTL2">
-            <img src="https://radiomyme.com/tv/resources/images/radio/rtl/RTL2.jpg" width="250" height="350" />
+            <img src="https://abload.de/img/extreme_job77jw0.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">RTL 2</title>
         </lockup>
         <lockup Id="Europe1">
