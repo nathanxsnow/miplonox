@@ -34,15 +34,15 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
                 <section>
         <lockup Id="ulu1">
           <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
-          <title class="showTextOnHighlight">Dance Wave</title>
+          <title class="showTextOnHighlight">ATV</title>
         </lockup>
         <lockup Id="ulu2">
           <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
-          <title class="showTextOnHighlight">Ibiza Global Radio</title>
+          <title class="showTextOnHighlight">STAR</title>
         </lockup>
          <lockup Id="ulu3">
           <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
-          <title class="showTextOnHighlight">Sunshine Live</title>
+          <title class="showTextOnHighlight">SHOW TV</title>
         </lockup>
                 </section>
               </grid>
@@ -56,15 +56,15 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
                 <section>
         <lockup Id="hab1">
             <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
-            <title class="showTextOnHighlight">NRJ</title>
+            <title class="showTextOnHighlight">A HABER</title>
         </lockup>
         <lockup Id="hab2">
             <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
-            <title class="showTextOnHighlight">Dance Wave</title>
+            <title class="showTextOnHighlight">NTV</title>
         </lockup>
         <lockup Id="hab3">
             <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
-            <title class="showTextOnHighlight">HotMix Radio Dance</title>
+            <title class="showTextOnHighlight">CNN</title>
         </lockup>
                 </section>
               </grid>
