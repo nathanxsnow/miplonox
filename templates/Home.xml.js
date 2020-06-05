@@ -127,35 +127,35 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
         <section>
         <lockup Id="act1">
             <img src="https://abload.de/img/extraction-netflix-4kjwkwz.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">NRJ</title>
+            <title class="showTextOnHighlight">Extraction</title>
         </lockup>
         <lockup Id="act2">
             <img src="https://abload.de/img/71pra814mjl._ac_sy679ykkl2.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Dance Wave</title>
+            <title class="showTextOnHighlight">Bad Boys 2</title>
         </lockup>
         <lockup Id="act3">
             <img src="https://abload.de/img/e78bdb11c37f4fbbc37b59lkss.png" width="250" height="350" />
-            <title class="showTextOnHighlight">EliumRadio Club and Dance</title>
+            <title class="showTextOnHighlight">Bloodshot</title>
         </lockup>
         <lockup Id="act4">
             <img src="https://abload.de/img/terminator-darkfatee4kbv.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">HotMix Radio Dance</title>
+            <title class="showTextOnHighlight">Terminator Dark Fate</title>
         </lockup>
         <lockup Id="act5">
             <img src="https://abload.de/img/353a441c-b1a1-44c3-afftkd6.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">MixFeever</title>
+            <title class="showTextOnHighlight">Fast Furious Presents Hobbs Shaw</title>
         </lockup>
         <lockup Id="act6">
             <img src="https://abload.de/img/12040191-960464833704dfkn3.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Funradio</title>
+            <title class="showTextOnHighlight">Alita</title>
         </lockup>
         <lockup Id="act7">
             <img src="https://abload.de/img/81jpimw2qal._sl1500_4ojv7.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Parazhit</title>
+            <title class="showTextOnHighlight">Tomb Raider</title>
         </lockup>
         <lockup Id="act8">
             <img src="https://abload.de/img/qikjy.png" width="250" height="350" />
-            <title class="showTextOnHighlight">EliumRadio Rock and Pop</title>
+            <title class="showTextOnHighlight">Deadpool 2</title>
         </lockup>
         </section>
       </shelf>
@@ -167,43 +167,43 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
         <section>
         <lockup Id="asia1">
             <img src="https://abload.de/img/thumb_oriqzsd5dxfjmushtk9p.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">RTL</title>
+            <title class="showTextOnHighlight">Triple Tap</title>
         </lockup>
         <lockup Id="asia2">
             <img src="https://abload.de/img/extreme_job77jw0.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">RTL 2</title>
+            <title class="showTextOnHighlight">Extreme Job</title>
         </lockup>
         <lockup Id="asia3">
             <img src="https://abload.de/img/syfjlj55.png" width="250" height="350" />
-            <title class="showTextOnHighlight">Europe 1</title>
+            <title class="showTextOnHighlight">Project Gutenberg</title>
         </lockup>
         <lockup Id="asia4">
           <img src="https://abload.de/img/thumb_ias8iizfau0usei18j2l.jpg" width="250" height="350" />
-          <title class="showTextOnHighlight">Contact FM</title>
+          <title class="showTextOnHighlight">The Prison</title>
         </lockup>
         <lockup Id="asia5">
             <img src="https://abload.de/img/thumb_baw9zdb1zjdws4im5kkz.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Nostalgie</title>
+            <title class="showTextOnHighlight">The One</title>
         </lockup>
         <lockup Id="asia6">
             <img src="https://abload.de/img/190449865rk2p.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Skyrock</title>
+            <title class="showTextOnHighlight">Chocolate</title>
         </lockup>
         <lockup Id="asia7">
             <img src="https://abload.de/img/51-rp7z5ssl._sy445_taj7s.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">RFM</title>
+            <title class="showTextOnHighlight">Ong Bak 3</title>
         </lockup>
         <lockup Id="asia8">
             <img src="https://abload.de/img/7b9f169057-ec71-4459-otja6.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Virgin Radio</title>
+            <title class="showTextOnHighlight">Police Story</title>
         </lockup>
         <lockup Id="asia9">
             <img src="https://abload.de/img/eqdtvlcwloj1oqvsdfxaz3gjgr.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">RMC</title>
+            <title class="showTextOnHighlight">Ninja Assassin</title>
         </lockup>
         <lockup Id="asia10">
             <img src="https://abload.de/img/29ba7c88c2992020ac3340cjvh.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Cherie FM</title>
+            <title class="showTextOnHighlight">Bodyguards and Assassins</title>
         </lockup>
         </section>
     </shelf>
