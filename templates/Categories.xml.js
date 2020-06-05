@@ -33,15 +33,15 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
               <grid>
                 <section>
         <lockup Id="ulu1">
-          <img src="https://abload.de/img/live-tv3lj43.jpg" width="308" height="308" />
+          <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
           <title class="showTextOnHighlight">Dance Wave</title>
         </lockup>
         <lockup Id="ulu2">
-          <img src="https://abload.de/img/live-tv3lj43.jpg" width="308" height="308" />
+          <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
           <title class="showTextOnHighlight">Ibiza Global Radio</title>
         </lockup>
          <lockup Id="ulu3">
-          <img src="https://abload.de/img/live-tv3lj43.jpg" width="308" height="308" />
+          <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
           <title class="showTextOnHighlight">Sunshine Live</title>
         </lockup>
                 </section>
@@ -55,15 +55,15 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
               <grid>
                 <section>
         <lockup Id="hab1">
-            <img src="https://abload.de/img/live-tv3lj43.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
             <title class="showTextOnHighlight">NRJ</title>
         </lockup>
         <lockup Id="hab2">
-            <img src="https://abload.de/img/live-tv3lj43.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
             <title class="showTextOnHighlight">Dance Wave</title>
         </lockup>
         <lockup Id="hab3">
-            <img src="https://abload.de/img/live-tv3lj43.jpg" width="308" height="308" />
+            <img src="https://abload.de/img/t3008u7jq7.jpg" width="308" height="308" />
             <title class="showTextOnHighlight">HotMix Radio Dance</title>
         </lockup>
                 </section>

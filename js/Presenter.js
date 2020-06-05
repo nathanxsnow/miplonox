@@ -503,40 +503,40 @@ var LiveFlux = {
 	//ulusal
 	
     ulu1: [{
-        title: "Radiomyme",
-        artworkImageURL: "https://abload.de/img/live-tv3lj43.jpg",
+        title: "ATV",
+        artworkImageURL: "https://abload.de/img/t3008u7jq7.jpg",
         url: "http://listen.radionomy.com/radiomyme-tv"
     }],
 
     ulu2: [{
-        title: "Club One",
-        artworkImageURL: "https://abload.de/img/live-tv3lj43.jpg",
+        title: "STAR",
+        artworkImageURL: "https://abload.de/img/t3008u7jq7.jpg",
         url: "http://listen.radionomy.com/clubone"
     }],
     
     ulu3: [{
-        title: "OldOne",
-        artworkImageURL: "https://abload.de/img/live-tv3lj43.jpg",
+        title: "SHOW TV",
+        artworkImageURL: "https://abload.de/img/t3008u7jq7.jpg",
         url: "http://listen.radionomy.com/oldone"
     }],
 	
 	//haber
 	
     hab1: [{
-        title: "Radiomyme",
-        artworkImageURL: "https://abload.de/img/live-tv3lj43.jpg",
+        title: "A HABER",
+        artworkImageURL: "https://abload.de/img/t3008u7jq7.jpg",
         url: "http://listen.radionomy.com/radiomyme-tv"
     }],
 
     hab2: [{
-        title: "Club One",
-        artworkImageURL: "https://abload.de/img/live-tv3lj43.jpg",
+        title: "NTV",
+        artworkImageURL: "https://abload.de/img/t3008u7jq7.jpg",
         url: "http://listen.radionomy.com/clubone"
     }],
     
     hab3: [{
-        title: "OldOne",
-        artworkImageURL: "https://abload.de/img/live-tv3lj43.jpg",
+        title: "CNN",
+        artworkImageURL: "https://abload.de/img/t3008u7jq7.jpg",
         url: "http://listen.radionomy.com/oldone"
     }],
 };
