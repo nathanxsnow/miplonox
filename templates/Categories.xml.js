@@ -32,15 +32,15 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
             <relatedContent>
               <grid>
                 <section>
-        <lockup Id="ul1">
+        <lockup Id="ulu1">
           <img src="https://abload.de/img/live-tv3lj43.jpg" width="308" height="308" />
           <title class="showTextOnHighlight">Dance Wave</title>
         </lockup>
-        <lockup Id="ul2">
+        <lockup Id="ulu2">
           <img src="https://abload.de/img/live-tv3lj43.jpg" width="308" height="308" />
           <title class="showTextOnHighlight">Ibiza Global Radio</title>
         </lockup>
-         <lockup Id="ul3">
+         <lockup Id="ulu3">
           <img src="https://abload.de/img/live-tv3lj43.jpg" width="308" height="308" />
           <title class="showTextOnHighlight">Sunshine Live</title>
         </lockup>

@@ -499,4 +499,44 @@ var LiveFlux = {
         artworkImageURL: "https://radiomyme.com/tv/resources/images/radio/rmc.jpg",
         url: "http://chai5she.cdn.dvmr.fr/rmcinfo"
     }],
+	
+	//ulusal
+	
+    ulu1: [{
+        title: "Radiomyme",
+        artworkImageURL: "https://abload.de/img/live-tv3lj43.jpg",
+        url: "http://listen.radionomy.com/radiomyme-tv"
+    }],
+
+    ulu2: [{
+        title: "Club One",
+        artworkImageURL: "https://abload.de/img/live-tv3lj43.jpg",
+        url: "http://listen.radionomy.com/clubone"
+    }],
+    
+    ulu3: [{
+        title: "OldOne",
+        artworkImageURL: "https://abload.de/img/live-tv3lj43.jpg",
+        url: "http://listen.radionomy.com/oldone"
+    }],
+	
+	//haber
+	
+    hab1: [{
+        title: "Radiomyme",
+        artworkImageURL: "https://abload.de/img/live-tv3lj43.jpg",
+        url: "http://listen.radionomy.com/radiomyme-tv"
+    }],
+
+    hab2: [{
+        title: "Club One",
+        artworkImageURL: "https://abload.de/img/live-tv3lj43.jpg",
+        url: "http://listen.radionomy.com/clubone"
+    }],
+    
+    hab3: [{
+        title: "OldOne",
+        artworkImageURL: "https://abload.de/img/live-tv3lj43.jpg",
+        url: "http://listen.radionomy.com/oldone"
+    }],
 };
