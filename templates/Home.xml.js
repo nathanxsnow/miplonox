@@ -109,16 +109,16 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
       <carousel>
         <section>
 		<lockup Id="act1">
-            <img src="https://abload.de/img/revd7klv.jpg" width="1740" height="850" />
+            <img src="https://abload.de/img/revd7klv.jpg" width="450" height="550" />
         </lockup>
         <lockup Id="act2">
-            <img src="https://abload.de/img/tombbojof.jpg" width="1740" height="850" />
+            <img src="https://abload.de/img/tombbojof.jpg" width="450" height="550" />
         </lockup>
         <lockup Id="act3">
-            <img src="https://abload.de/img/pikac6bjxv.jpg" width="1740" height="850" />
+            <img src="https://abload.de/img/pikac6bjxv.jpg" width="450" height="550" />
         </lockup>
         <lockup Id="act4">
-            <img src="https://abload.de/img/temi71k6m.jpg" width="1740" height="850" />
+            <img src="https://abload.de/img/temi71k6m.jpg" width="450" height="550" />
         </lockup>
         </section>
       </carousel>
@@ -129,35 +129,35 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
         </header>
         <section>
         <lockup Id="act1">
-            <img src="https://abload.de/img/extraction-netflix-4kjwkwz.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/extraction-netflix-4kjwkwz.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Extraction</title>
         </lockup>
         <lockup Id="act2">
-            <img src="https://abload.de/img/71pra814mjl._ac_sy679ykkl2.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/71pra814mjl._ac_sy679ykkl2.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Bad Boys 2</title>
         </lockup>
         <lockup Id="act3">
-            <img src="https://abload.de/img/e78bdb11c37f4fbbc37b59lkss.png" width="350" height="450" />
+            <img src="https://abload.de/img/e78bdb11c37f4fbbc37b59lkss.png" width="250" height="350" />
             <title class="showTextOnHighlight">Bloodshot</title>
         </lockup>
         <lockup Id="act4">
-            <img src="https://abload.de/img/terminator-darkfatee4kbv.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/terminator-darkfatee4kbv.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Terminator Dark Fate</title>
         </lockup>
         <lockup Id="act5">
-            <img src="https://abload.de/img/353a441c-b1a1-44c3-afftkd6.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/353a441c-b1a1-44c3-afftkd6.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Fast Furious Presents Hobbs Shaw</title>
         </lockup>
         <lockup Id="act6">
-            <img src="https://abload.de/img/12040191-960464833704dfkn3.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/12040191-960464833704dfkn3.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Alita</title>
         </lockup>
         <lockup Id="act7">
-            <img src="https://abload.de/img/81jpimw2qal._sl1500_4ojv7.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/81jpimw2qal._sl1500_4ojv7.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Tomb Raider</title>
         </lockup>
         <lockup Id="act8">
-            <img src="https://abload.de/img/qikjy.png" width="350" height="450" />
+            <img src="https://abload.de/img/qikjy.png" width="250" height="350" />
             <title class="showTextOnHighlight">Deadpool 2</title>
         </lockup>
         </section>
@@ -169,43 +169,43 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
         </header>
         <section>
         <lockup Id="asia1">
-            <img src="https://abload.de/img/thumb_oriqzsd5dxfjmushtk9p.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/thumb_oriqzsd5dxfjmushtk9p.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Triple Tap</title>
         </lockup>
         <lockup Id="asia2">
-            <img src="https://abload.de/img/extreme_job77jw0.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/extreme_job77jw0.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Extreme Job</title>
         </lockup>
         <lockup Id="asia3">
-            <img src="https://abload.de/img/syfjlj55.png" width="350" height="450" />
+            <img src="https://abload.de/img/syfjlj55.png" width="250" height="350" />
             <title class="showTextOnHighlight">Project Gutenberg</title>
         </lockup>
         <lockup Id="asia4">
-          <img src="https://abload.de/img/thumb_ias8iizfau0usei18j2l.jpg" width="350" height="450" />
+          <img src="https://abload.de/img/thumb_ias8iizfau0usei18j2l.jpg" width="250" height="350" />
           <title class="showTextOnHighlight">The Prison</title>
         </lockup>
         <lockup Id="asia5">
-            <img src="https://abload.de/img/thumb_baw9zdb1zjdws4im5kkz.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/thumb_baw9zdb1zjdws4im5kkz.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">The One</title>
         </lockup>
         <lockup Id="asia6">
-            <img src="https://abload.de/img/190449865rk2p.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/190449865rk2p.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Chocolate</title>
         </lockup>
         <lockup Id="asia7">
-            <img src="https://abload.de/img/51-rp7z5ssl._sy445_taj7s.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/51-rp7z5ssl._sy445_taj7s.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Ong Bak 3</title>
         </lockup>
         <lockup Id="asia8">
-            <img src="https://abload.de/img/7b9f169057-ec71-4459-otja6.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/7b9f169057-ec71-4459-otja6.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Police Story</title>
         </lockup>
         <lockup Id="asia9">
-            <img src="https://abload.de/img/eqdtvlcwloj1oqvsdfxaz3gjgr.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/eqdtvlcwloj1oqvsdfxaz3gjgr.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Ninja Assassin</title>
         </lockup>
         <lockup Id="asia10">
-            <img src="https://abload.de/img/29ba7c88c2992020ac3340cjvh.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/29ba7c88c2992020ac3340cjvh.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Bodyguards and Assassins</title>
         </lockup>
         </section>
@@ -217,51 +217,51 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
         </header>
         <section>
         <lockup Id="hor1">
-            <img src="https://abload.de/img/20903380kn7.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/20903380kn7.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">It Chapter Two</title>
         </lockup>
         <lockup Id="hor2">
-            <img src="https://abload.de/img/thumb_antrxw6aggics9a3tj7i.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/thumb_antrxw6aggics9a3tj7i.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Prey</title>
         </lockup>
         <lockup Id="hor3">
-            <img src="https://abload.de/img/thumb_cfglndeztgezw5nwakjt.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/thumb_cfglndeztgezw5nwakjt.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">The Night Watchmen</title>
         </lockup>
         <lockup Id="hor4">
-          <img src="https://abload.de/img/thumb_gvbvilcmaewkhgj84jcg.jpg" width="350" height="450" />
+          <img src="https://abload.de/img/thumb_gvbvilcmaewkhgj84jcg.jpg" width="250" height="350" />
           <title class="showTextOnHighlight">Jigsaw</title>
         </lockup>
         <lockup Id="hor5">
-            <img src="https://abload.de/img/cucuy-theboogeymanxijxw.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/cucuy-theboogeymanxijxw.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Cucuy The Boogeyman</title>
         </lockup>
         <lockup Id="hor6">
-            <img src="https://abload.de/img/91ea12bcxohl._sy445_kykz2.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/91ea12bcxohl._sy445_kykz2.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Escape Room</title>
         </lockup>
         <lockup Id="hor7">
-            <img src="https://abload.de/img/08451090ckdo.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/08451090ckdo.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Kidnapping Stella</title>
         </lockup>
         <lockup Id="hor8">
-            <img src="https://abload.de/img/208373bejc6.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/208373bejc6.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">US</title>
         </lockup>
         <lockup Id="hor9">
-            <img src="https://abload.de/img/wounds-british-movie-qgj3v.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/wounds-british-movie-qgj3v.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Wounds</title>
         </lockup>
         <lockup Id="hor10">
-            <img src="https://abload.de/img/81ea890cf-l._sy445_g1jgk.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/81ea890cf-l._sy445_g1jgk.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">MA</title>
         </lockup>
 		<lockup Id="hor11">
-            <img src="https://abload.de/img/thumb_itrxg5w46jwnwlrq5k56.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/thumb_itrxg5w46jwnwlrq5k56.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">House of 9</title>
         </lockup>
 		<lockup Id="hor12">
-            <img src="https://abload.de/img/thumb_u1a9qtv59lehn6171jg1.jpg" width="350" height="450" />
+            <img src="https://abload.de/img/thumb_u1a9qtv59lehn6171jg1.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Escapee</title>
         </lockup>
         </section>
