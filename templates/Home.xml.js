@@ -109,16 +109,16 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
       <carousel>
         <section>
 		<lockup Id="act1">
-            <img src="https://abload.de/img/new3vjc8.jpg" width="1540" height="450" />
+            <img src="https://abload.de/img/newto13kbk9c.jpg" width="1440" height="450" />
         </lockup>
         <lockup Id="act2">
-            <img src="https://abload.de/img/new3vjc8.jpg" width="1540" height="450" />
+            <img src="https://abload.de/img/newto13kbk9c.jpg" width="1440" height="450" />
         </lockup>
         <lockup Id="act3">
-            <img src="https://abload.de/img/new3vjc8.jpg" width="1540" height="450" />
+            <img src="https://abload.de/img/newto13kbk9c.jpg" width="1440" height="450" />
         </lockup>
         <lockup Id="act4">
-            <img src="https://abload.de/img/new3vjc8.jpg" width="1540" height="450" />
+            <img src="https://abload.de/img/newto13kbk9c.jpg" width="1440" height="450" />
         </lockup>
         </section>
       </carousel>
