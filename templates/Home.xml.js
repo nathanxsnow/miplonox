@@ -104,7 +104,13 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
     </style>
   </head>
   
-  
+  <stackTemplate class="templateBackground" theme="dark">
+    <collectionList>  
+      <carousel>
+        <section>
+		
+        </section>
+      </carousel>
     
       <shelf>
         <header>
