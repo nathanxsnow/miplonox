@@ -115,7 +115,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
             <img src="https://abload.de/img/saa1okap.jpg" width="1740" height="500" />
         </lockup>
         <lockup Id="act3">
-            <img src="https://abload.de/img/hitman-agent-47-wallp8iktn.jpg" width="1740" height="500" />
+            <img src="https://abload.de/img/blnfk58.png" width="1740" height="500" />
         </lockup>
         <lockup Id="act4">
             <img src="https://abload.de/img/hitman-agent-47-wallp8iktn.jpg" width="1740" height="500" />
