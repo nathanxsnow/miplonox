@@ -118,7 +118,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
             <img src="https://abload.de/img/tomprlmjd2.jpg" width="1540" height="650" />
         </lockup>
         <lockup Id="act4">
-            <img src="https://abload.de/img/terix3j1j.jpg" width="1540" height="650" />
+            <img src="https://abload.de/img/ttredf6k2o.jpg" width="1540" height="650" />
         </lockup>
         </section>
       </carousel>
