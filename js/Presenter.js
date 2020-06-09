@@ -437,6 +437,66 @@ var LiveFlux = {
         artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://listen.radionomy.com/feevermix.m3u"
     }],
+	
+	act9: [{
+        title: "Street Fighter The Legend of Chun Li",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://listen.radionomy.com/radiomyme-tv"
+    }],
+
+    act10: [{
+        title: "Sleepless",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://listen.radionomy.com/clubone"
+    }],
+    
+    act11: [{
+        title: "Chaos",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://listen.radionomy.com/oldone"
+    }],
+    
+    act12: [{
+        title: "Rampage",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://bit.ly/1OBiXFE"
+    }],
+    
+    act13: [{
+        title: "Gods of Egypt",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://185.52.127.160/fr/30001/mp3_128.mp3?origine=fluxradios"
+    }],
+    
+    act14: [{
+        title: "Taxi",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://dancewave.online/dance.mp3.pls"
+    }],
+    
+    act15: [{
+        title: "Escape Plan 3",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://listen.radionomy.com/hotmixradio-dance-128.m3u"
+    }],
+    
+    act16: [{
+        title: "A Hitman in London",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://listen.radionomy.com/feevermix.m3u"
+    }],
+	
+	act17: [{
+        title: "Ant Man and the Wasp",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://listen.radionomy.com/hotmixradio-dance-128.m3u"
+    }],
+    
+    act18: [{
+        title: "Never Let Go",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://listen.radionomy.com/feevermix.m3u"
+    }],
     
     //asia
 	
@@ -496,6 +556,12 @@ var LiveFlux = {
     
     asia10: [{
         title: "Bodyguards and Assassins",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://chai5she.cdn.dvmr.fr/rmcinfo"
+    }],
+	
+	asia11: [{
+        title: "Flash Point",
         artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
         url: "http://chai5she.cdn.dvmr.fr/rmcinfo"
     }],

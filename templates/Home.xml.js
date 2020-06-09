@@ -163,6 +163,46 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
             <img src="https://abload.de/img/qikjy.png" width="250" height="350" />
             <title class="showTextOnHighlight">Deadpool 2</title>
         </lockup>
+		<lockup Id="act9">
+            <img src="https://abload.de/img/thumb_8fj8a4r48mqm6zovqjjb.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Deadpool 2</title>
+        </lockup>
+		<lockup Id="act10">
+            <img src="https://abload.de/img/thumb_9wkusy33mdpgmz0lkkz7.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Deadpool 2</title>
+        </lockup>
+		<lockup Id="act11">
+            <img src="https://abload.de/img/thumb_pgh45ufjjmfsrhvayj20.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Deadpool 2</title>
+        </lockup>
+		<lockup Id="act12">
+            <img src="https://abload.de/img/81kmfutvytl._sy445_42jj8.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Deadpool 2</title>
+        </lockup>
+		<lockup Id="act13">
+            <img src="https://abload.de/img/thumb_upqaw07bgoljf3c61k5g.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Deadpool 2</title>
+        </lockup>
+		<lockup Id="act14">
+            <img src="https://abload.de/img/thumb_6tdefypv8magqfpvrkv3.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Deadpool 2</title>
+        </lockup>
+		<lockup Id="act15">
+            <img src="https://abload.de/img/escape-plan-3-the-extmgk00.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Deadpool 2</title>
+        </lockup>
+		<lockup Id="act16">
+            <img src="https://abload.de/img/thumb_nnny6go0yryjz3enbk03.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Deadpool 2</title>
+        </lockup>
+		<lockup Id="act17">
+            <img src="https://abload.de/img/vzja9.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Deadpool 2</title>
+        </lockup>
+		<lockup Id="act18">
+            <img src="https://abload.de/img/thumb_wlk6g1igqttuc6vhokot.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Deadpool 2</title>
+        </lockup>
         </section>
       </shelf>
       
@@ -209,6 +249,10 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
         </lockup>
         <lockup Id="asia10">
             <img src="https://abload.de/img/29ba7c88c2992020ac3340cjvh.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Bodyguards and Assassins</title>
+        </lockup>
+		<lockup Id="asia11">
+            <img src="https://abload.de/img/thumb_6ryx89wtk7u08odljj8z.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Bodyguards and Assassins</title>
         </lockup>
         </section>
