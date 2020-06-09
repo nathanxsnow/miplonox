@@ -165,43 +165,43 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
         </lockup>
 		<lockup Id="act9">
             <img src="https://abload.de/img/thumb_8fj8a4r48mqm6zovqjjb.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Deadpool 2</title>
+            <title class="showTextOnHighlight">Street Fighter The Legend of Chun Li</title>
         </lockup>
 		<lockup Id="act10">
             <img src="https://abload.de/img/thumb_9wkusy33mdpgmz0lkkz7.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Deadpool 2</title>
+            <title class="showTextOnHighlight">Sleepless</title>
         </lockup>
 		<lockup Id="act11">
             <img src="https://abload.de/img/thumb_pgh45ufjjmfsrhvayj20.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Deadpool 2</title>
+            <title class="showTextOnHighlight">Chaos</title>
         </lockup>
 		<lockup Id="act12">
             <img src="https://abload.de/img/81kmfutvytl._sy445_42jj8.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Deadpool 2</title>
+            <title class="showTextOnHighlight">Rampage</title>
         </lockup>
 		<lockup Id="act13">
             <img src="https://abload.de/img/thumb_upqaw07bgoljf3c61k5g.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Deadpool 2</title>
+            <title class="showTextOnHighlight">Gods of Egypt</title>
         </lockup>
 		<lockup Id="act14">
             <img src="https://abload.de/img/thumb_6tdefypv8magqfpvrkv3.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Deadpool 2</title>
+            <title class="showTextOnHighlight">Taxi</title>
         </lockup>
 		<lockup Id="act15">
             <img src="https://abload.de/img/escape-plan-3-the-extmgk00.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Deadpool 2</title>
+            <title class="showTextOnHighlight">Escape Plan 3</title>
         </lockup>
 		<lockup Id="act16">
             <img src="https://abload.de/img/thumb_nnny6go0yryjz3enbk03.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Deadpool 2</title>
+            <title class="showTextOnHighlight">A Hitman in London</title>
         </lockup>
 		<lockup Id="act17">
             <img src="https://abload.de/img/vzja9.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Deadpool 2</title>
+            <title class="showTextOnHighlight">Ant Man and the Wasp</title>
         </lockup>
 		<lockup Id="act18">
             <img src="https://abload.de/img/thumb_wlk6g1igqttuc6vhokot.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Deadpool 2</title>
+            <title class="showTextOnHighlight">Never Let Go</title>
         </lockup>
         </section>
       </shelf>
@@ -253,7 +253,7 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
         </lockup>
 		<lockup Id="asia11">
             <img src="https://abload.de/img/thumb_6ryx89wtk7u08odljj8z.jpg" width="250" height="350" />
-            <title class="showTextOnHighlight">Bodyguards and Assassins</title>
+            <title class="showTextOnHighlight">Flash Point</title>
         </lockup>
         </section>
     </shelf>
@@ -310,6 +310,58 @@ var Template = function() { return `<?xml version="1.0" encoding="UTF-8" ?>
 		<lockup Id="hor12">
             <img src="https://abload.de/img/thumb_u1a9qtv59lehn6171jg1.jpg" width="250" height="350" />
             <title class="showTextOnHighlight">Escapee</title>
+        </lockup>
+        </section>
+    </shelf>
+	
+	<shelf>
+        <header>
+          <title>Komedie</title>
+        </header>
+        <section>
+        <lockup Id="kom1">
+            <img src="https://abload.de/img/thumb_ounyskl3mjsr1szk8jm2.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Balls of Fury</title>
+        </lockup>
+        <lockup Id="kom2">
+            <img src="https://abload.de/img/thumb_3murojiqrtqj9wjsqjqa.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Get Santa</title>
+        </lockup>
+        <lockup Id="kom3">
+            <img src="https://abload.de/img/thumb_e2pehldpj2weeeueak4j.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">A Haunted House</title>
+        </lockup>
+        <lockup Id="kom4">
+          <img src="https://abload.de/img/thumb_vns4lb5rnx2zucviwjy0.jpg" width="250" height="350" />
+          <title class="showTextOnHighlight">Johnny English Reborn</title>
+        </lockup>
+        <lockup Id="kom5">
+            <img src="https://abload.de/img/thumb_aywymsb43csqp7anfj8k.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">De Lautre Cote Du Periph</title>
+        </lockup>
+        <lockup Id="kom6">
+            <img src="https://abload.de/img/v1otjic.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Sextuplets</title>
+        </lockup>
+        <lockup Id="kom7">
+            <img src="https://abload.de/img/3533812ejjbs.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Enes Batur Gercek Kahraman</title>
+        </lockup>
+        <lockup Id="kom8">
+            <img src="https://abload.de/img/thumb_hshqq5oqciraacy8ckxz.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Take the 10</title>
+        </lockup>
+        <lockup Id="kom9">
+            <img src="https://abload.de/img/readfile.phprdtype3fio3jdl.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">He Even Has Your Eyes</title>
+        </lockup>
+        <lockup Id="kom10">
+            <img src="https://abload.de/img/thumb_93fnzeyljnzd2hlbukrz.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Sucker</title>
+        </lockup>
+		<lockup Id="kom11">
+            <img src="https://abload.de/img/thumb_itgiblvgx5fg5krgdjw5.jpg" width="250" height="350" />
+            <title class="showTextOnHighlight">Grown Ups 2</title>
         </lockup>
         </section>
     </shelf>

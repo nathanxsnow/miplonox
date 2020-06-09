@@ -640,6 +640,75 @@ var LiveFlux = {
         url: "http://chai5she.cdn.dvmr.fr/rmcinfo"
     }],
 	
+	//kom
+	
+	kom1: [{
+        title: "Balls of Fury",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://streaming.radio.funradio.fr/fun-1-48-192"
+    }],
+    
+    kom2: [{
+        title: "Get Santa",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://streaming.radio.rtl.fr/rtl-1-44-96"
+    }],
+    
+    kom3: [{
+        title: "A Haunted House",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://streaming.radio.rtl2.fr:80/rtl2-1-44-96"
+    }],
+    
+    kom4: [{
+        title: "Johnny English Reborn",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://mp3lg3.scdn.arkena.com/10489/europe1.mp3"
+    }],
+    
+    kom5: [{
+        title: "De Lautre Cote Du Periph",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://radio-contact.ice.infomaniak.ch/radio-contact-high.mp3"
+    }],
+    
+    kom6: [{
+        title: "Sextuplets",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://cdn.nrjaudio.fm/audio1/fr/30601/mp3_128.mp3?origine=fluxradios"
+    }],
+    
+    kom7: [{
+        title: "Enes Batur Gercek Kahraman",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://icecast.skyrock.net/s/natio_mp3_128k"
+    }],
+    
+    kom8: [{
+        title: "Take the 10",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://rfm-live-mp3-128.scdn.arkena.com/rfm.mp3"
+    }],
+    
+   	kom9: [{
+        title: "He Even Has Your Eyes",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://vr-live-mp3-128.scdn.arkena.com/virginradio.mp3"
+    }],
+    
+    kom10: [{
+        title: "Sucker",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://chai5she.cdn.dvmr.fr/rmcinfo"
+    }],
+	
+	kom11: [{
+        title: "Grown Ups 2",
+        artworkImageURL: "https://abload.de/img/unnamedhek5l.png",
+        url: "http://chai5she.cdn.dvmr.fr/rmcinfo"
+    }],
+	
+	
 	//ulusal
 	
     ulu1: [{
